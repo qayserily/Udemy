@@ -1,0 +1,40 @@
+Gherkin Syntax
+	* Feature
+	* Background
+	* Scenerio
+	* Given
+	* When
+	* Then 
+	* And
+	* But 
+	* Scenerio outline
+	* Examples
+	* Scenerio Templates
+	_________________________________________
+
+BDD
+	* Its plain text and easy to understand
+	* Its easy yo understand by BA/QA/DEV/Automation Test Engineer and all will be in same page 
+	* Since its plain text format, BDD can be shared even to Stakeholders
+	* Easy to learn and implement
+
+Traditional Automation
+	* Its full of code and hard to understand
+	* the code are understood only by Automation Test Engineer(Some times DEV)
+	* Impossible
+	* More knowladge is required while designing
+
+__________________________________________________
+
+Cucumber
+	* Is a tool which helps Behavioral Driven Development(BDD)
+	* As a tools support different language implementation like Java , JS , PHP , Ruby,C# etc. 
+
+__________________________________________________
+
+Feature file 
+	* while starting to work with Cucumber, the first thing we will encounter is going to be the Feature file. 
+	* Feature file is more like a plain text file but with .feature extension 
+ 
+ _________________________________________
+
